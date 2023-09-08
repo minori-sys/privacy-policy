@@ -45,7 +45,7 @@ https://minori-sys.github.io/gods_lunch_lp/
 
 - イケてるTodo
   - アプリをご紹介して頂ける場合は ⇒ https://github.com/minori-sys/iketeru-todo-lp
-  - 普段、アプリをご利用になる場合は、アプリurlを直接お気に入りにして頂いても差し支えありません。 ⇒ https://github.com/minori-sys/iketeru-todo
+  - 普段、アプリをご利用になる場合は、アプリurlを直接お気に入りにして頂いても差し支えありません。 ⇒ https://minori-sys.github.io/iketeru-todo/
 
 ## プライバシーポリシーの変更・免責事項について
 
